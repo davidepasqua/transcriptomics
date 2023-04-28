@@ -1,0 +1,73 @@
+1: LX2 cells, siNC_1
+Identifiers: BioSample: SAMN30192047; SRA: SRS14565007; GEO: GSM6435847
+Organism: Homo sapiens
+Attributes:
+    /source name="liver"
+    /tissue="liver"
+    /cell line="LX2"
+    /cell type="Non parenchymal cell"
+    /genotype="WT"
+    /treatment="siNC transfected"
+Accession: SAMN30192047	ID: 30192047
+
+2: LX2 cells, siNC_2
+Identifiers: BioSample: SAMN30192046; SRA: SRS14565008; GEO: GSM6435848
+Organism: Homo sapiens
+Attributes:
+    /source name="liver"
+    /tissue="liver"
+    /cell line="LX2"
+    /cell type="Non parenchymal cell"
+    /genotype="WT"
+    /treatment="siNC transfected"
+Accession: SAMN30192046	ID: 30192046
+
+3: LX2 cells, siNC_3
+Identifiers: BioSample: SAMN30192045; SRA: SRS14565009; GEO: GSM6435849
+Organism: Homo sapiens
+Attributes:
+    /source name="liver"
+    /tissue="liver"
+    /cell line="LX2"
+    /cell type="Non parenchymal cell"
+    /genotype="WT"
+    /treatment="siNC transfected"
+Accession: SAMN30192045	ID: 30192045
+
+4: LX2 cells, siSHMT2_1
+Identifiers: BioSample: SAMN30192044; SRA: SRS14565010; GEO: GSM6435850
+Organism: Homo sapiens
+Attributes:
+    /source name="liver"
+    /tissue="liver"
+    /cell line="LX2"
+    /cell type="Non parenchymal cell"
+    /genotype="SHMT2 knockdown"
+    /treatment="siSHMT2 transfected"
+Accession: SAMN30192044	ID: 30192044
+
+5: LX2 cells, siSHMT2_2
+Identifiers: BioSample: SAMN30192043; SRA: SRS14565011; GEO: GSM6435851
+Organism: Homo sapiens
+Attributes:
+    /source name="liver"
+    /tissue="liver"
+    /cell line="LX2"
+    /cell type="Non parenchymal cell"
+    /genotype="SHMT2 knockdown"
+    /treatment="siSHMT2 transfected"
+Accession: SAMN30192043	ID: 30192043
+
+6: LX2 cells, siSHMT2_3
+Identifiers: BioSample: SAMN30192042; SRA: SRS14565012; GEO: GSM6435852
+Organism: Homo sapiens
+Attributes:
+    /source name="liver"
+    /tissue="liver"
+    /cell line="LX2"
+    /cell type="Non parenchymal cell"
+    /genotype="SHMT2 knockdown"
+    /treatment="siSHMT2 transfected"
+Accession: SAMN30192042	ID: 30192042
+
+
